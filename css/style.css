@@ -1,0 +1,21 @@
+/* Global styles */
+body {
+  width: 1423px;
+}
+
+/*Navbar styles*/
+.logo {
+  font-size: 26px;
+  letter-spacing: 1px;
+  line-height: 41px;
+  color: #fed136;
+  font-family: "Wisdom";
+  margin-right: 100px;
+}
+
+.container-fluid {
+  flex-wrap: nowrap;
+  margin-left: 100px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxrQkFBQTtBQUVBO0VBQ0UsYUFBQTtBQ0FGOztBRElBLGdCQUFBO0FBRUE7RUFDRSxlQUFBO0VBQ0EsbUJBQUE7RUFDQSxpQkFBQTtFQUNBLGNBQUE7RUFDQSxxQkFBQTtFQUNBLG1CQUFBO0FDRkY7O0FES0E7RUFDRSxpQkFBQTtFQUNBLGtCQUFBO0FDRkYiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
