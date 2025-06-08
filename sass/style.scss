@@ -1,11 +1,42 @@
 /* Global styles */
 
 body {
-  width: 1423px;
+  max-width: 1424px;
 
 }
 
+/* Header styles */
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 729px;
+}
+
+.header-container {
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+
+.header-container img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /*Navbar styles*/
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
 
 .logo {
   font-size: 26px;
@@ -13,10 +44,12 @@ body {
   line-height: 41px;
   color: #fed136;
   font-family: "Wisdom";
-  margin-right: 100px;
+  margin-right: 150px;
+
 }
 
 .container-fluid {
   flex-wrap: nowrap;
   margin-left: 100px;
 }
+
