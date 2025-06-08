@@ -1,5 +1,9 @@
 /* Global styles */
 
+::after, ::before {
+  box-sizing: border-box;
+}
+
 body {
   max-width: 1424px;
 
@@ -16,13 +20,13 @@ body {
 }
 
 .header-container {
-  position: relative;
+  position: absolute;
   width: 100%;
-  min-height: 729px;;
+  min-height: 729px;
 }
 
 .header-container img {
-  position: absolute;'
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
