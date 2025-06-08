@@ -89,14 +89,16 @@ body {
 .navbar {
   position: absolute;
   top: 0;
-  left: 100px;
+  left: 0;
   width: 100%;
   z-index: 2;
+  padding-right: 500px;
+  box-sizing: border-box;
 }
 
 .nav-links a {
   color: #fff;
-  
+
 }
 
 .logo {
